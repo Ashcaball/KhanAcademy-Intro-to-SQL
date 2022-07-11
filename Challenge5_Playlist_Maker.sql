@@ -1,4 +1,4 @@
-/*We've created a database of songs and artists, and you'll make playlists 
+/* We've created a database of songs and artists, and you'll make playlists 
 from them in this challenge. */
 
 CREATE TABLE artists (
