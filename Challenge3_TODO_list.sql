@@ -1,4 +1,4 @@
-/*Here's a table containing a TODO list with the number of minutes it will take to complete each item. 
+/* Here's a table containing a TODO list with the number of minutes it will take to complete each item. 
 Insert another item to your todo list with the estimated minutes it will take.
 Select the SUM of minutes it will take to do all of the items on your TODO list.*/
 
