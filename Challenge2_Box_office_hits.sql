@@ -1,4 +1,4 @@
-/*Challenge: Box office hits database 
+/* Challenge: Box office hits database 
 This database contains an incomplete list of box office hits and their release year. 
 You're going to get the results back out of the database in different ways! 
  */
@@ -15,7 +15,7 @@ INSERT INTO movies VALUES (6, "Disney's Up", 2009);
 
 SELECT * FROM movies;
 
-/*Retrieve only the movies that were released in the year 2000 or later, not before. 
+/* Retrieve only the movies that were released in the year 2000 or later, not before. 
 Sort the results so that the earlier movies are listed first. */
 
 SELECT * FROM movies WHERE release_year > 2000 ORDER BY release_year;
